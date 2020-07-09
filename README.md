@@ -10,7 +10,7 @@
 </p>
 
 
-<h3>Para visualizar o projeto <a href="https://clonetwitter.netlify.app/">Clique aqui</a>, ou, execute os comandos abaixo:</h3>
+<h3>Para visualizar o projeto <a href="https://clonetwitter.netlify.app/" target="_blank">Clique aqui</a>, ou, execute os comandos abaixo:</h3>
 
 ```bash
 $ git clone https://github.com/rodrigosakamoto/twitter-clone.git
