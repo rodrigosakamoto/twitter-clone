@@ -31,9 +31,9 @@ const SideBar: React.FC = () => {
                 nickname="@captain_mirai"
               />,
               <FollowSuggestion name="Mallu" nickname="@malluchan_bigu" />,
-              <FollowSuggestion name="Manu" nickname="@manu" />,
-              <FollowSuggestion name="Aristeu" nickname="@aristeu" />,
-              <FollowSuggestion name="Nana" nickname="@nana" />,
+              <FollowSuggestion name="Manu" nickname="@ah_nuenu" />,
+              <FollowSuggestion name="Aristeu" nickname="@linelsinho_bigode" />,
+              <FollowSuggestion name="Nana" nickname="@izi_momoin" />,
             ]}
           />
           <List
