@@ -1,8 +1,8 @@
 <h1 align="center" >
-  Twiiter Clone
+  Twitter Clone
 </h1>
 
-<h3 align="center"> Um clone da interface do Twtitter feito com ReactJS</h3>
+<h3 align="center"> Um clone da interface do Twitter feito com ReactJS</h3>
 
 
 <p align="center">
@@ -10,7 +10,11 @@
 </p>
 
 
-<h3>Para visualizar o projeto <a href="https://clonetwitter.netlify.app/" target="_blank">Clique aqui</a>, ou, execute os comandos abaixo:</h3>
+<h4 align="center"><a href="https://clonetwitter.netlify.app/">Clique aqui para visualizar o projeto</a></h3>
+
+## 💾 Instalação
+
+<h4>Execute os comandos abaixo</h4>
 
 ```bash
 $ git clone https://github.com/rodrigosakamoto/twitter-clone.git
